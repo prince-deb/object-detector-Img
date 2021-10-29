@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+a{
+    font-size: 23px !important;
+    background-color:orange;
+    border-radius: 25px !important;
+    width: 400px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 10px 10px 10px black;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px grey;
+    border-color: goldenrod;
+    border: solid
+}
